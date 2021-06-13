@@ -1,0 +1,10 @@
+/* selector {
+    property: value;
+ } */
+
+#gradient {
+    background-color: pink;
+    /* height: 100vh;
+    background-image: linear-gradient(to top, #246fe3, #1aff00); */
+
+} 
